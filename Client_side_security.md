@@ -27,5 +27,5 @@
 
 ### Session management
 
-- add `HttpOnly` (ensures that the cookie can be read only from server & not by javascript) & `secure` (ensures transfer over secured protocol) tag to any cookie
+- add `HttpOnly` (ensures that the cookie can be read only from server & not by javascript) & `Secure` (ensures transfer over secured protocol) tag to any cookie
 - if it's required to store cookie from client-side, make sure to not read by client or frontend side code
