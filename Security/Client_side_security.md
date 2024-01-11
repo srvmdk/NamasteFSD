@@ -14,7 +14,7 @@
 
 ### Data integrity
 
-- use checksum for the stored data to detect tempered data
+- use `checksum` for the stored data to detect tempered data
 
 ### Storage limit
 
