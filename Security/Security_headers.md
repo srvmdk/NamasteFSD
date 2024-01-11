@@ -30,4 +30,4 @@ This header upgrades HTTP request to HTTPS on first time and post that browser w
 
 If first-time also user needs to be prevented from accessing HTTP request, the website has to be registered at `hstspreload.org`.
 
-> *Use it to have a request from secure protocall. We can have a custom redirection at our side of code to redirect based on protocall `x-forwarded-proto` if it's not https*
+> *Use it to have a request from secure protocol. We can have a custom redirection at our side of code to redirect based on protocol `x-forwarded-proto` if it's not https*
